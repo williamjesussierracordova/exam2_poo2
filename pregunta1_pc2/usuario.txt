@@ -1,0 +1,8 @@
+uber,uber,uber
+xiaomi,xiaomi,xiaomi
+facebook,facebook,facebook
+pepsi,pepsi,pepsi
+twitch,twitch,twitch
+inca kola,inca kola,inca kola
+wow,wow,wow
+yahoo,yahoo,tahoo
